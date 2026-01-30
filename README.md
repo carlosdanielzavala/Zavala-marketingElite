@@ -126,7 +126,7 @@ footer a { color: #dbe9ff; text-decoration: none; margin: 0 5px; }
 <div class="cta">
 <h2>Accede al Curso Afiliados Elite</h2>
 <p><strong>Precio especial: $97 USD</strong></p>
-<button onclick="window.location.href='https://https://app.komvii.com/checkout/4K3bSZfk18LCerCxEyzjiYBSeIHN1LZi">
+<button onclick="window.location."https//:app.komvii.com/checkout/4K3bSZfk18LCerCxEyzjiYBSeIHN1LZi">
 COMENZAR AHORA 🚀
 </button>
 
