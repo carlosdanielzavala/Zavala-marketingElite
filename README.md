@@ -126,10 +126,11 @@ footer a { color: #dbe9ff; text-decoration: none; margin: 0 5px; }
 <div class="cta">
 <h2>Accede al Curso Afiliados Elite</h2>
 <p><strong>Precio especial: $97 USD</strong></p>
-<button onclick="window.location.href='https://tu-enlace-de-venta-aqui.com'">
+<button onclick="window.location.href='https://https://app.komvii.com/checkout/4K3bSZfk18LCerCxEyzjiYBSeIHN1LZi">
 COMENZAR AHORA 🚀
 </button>
 
+    
 <div class="whatsapp-message">
 📲 También puedes escribirnos por WhatsApp: <br>
 <a href="https://wa.me/584242256305?text=Hola%20quiero%20información%20sobre%20el%20curso%20Afiliados%20Elite.%20¿Cómo%20puedo%20comenzar?" target="_blank" style="color:white; text-decoration:underline; font-weight:bold;">
